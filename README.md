@@ -5,18 +5,34 @@
 ![ASIC and FPGA development](https://media-exp1.licdn.com/dms/image/C4D16AQGAXwuPyyeMGQ/profile-displaybackgroundimage-shrink_350_1400/0/1651191608942?e=1672876800&v=beta&t=Qe56jDIxVTYjnwq3b2OmTLLHkJjj8Qf5D8WnaR4l3yk)
 
 I am from India and currently, Sweden is my new home! 
+
 I have always been interested in electronics and this has led me to explore the field of Application Specific Integrated Circuits ( TLDR:  ASIC ) so here I am at the Faculty of Engineering at Lund University for a Master's degree in Embedded Electronics Engineering with a specialization in System-on-Chip Design.
 
-I have experience in mapping algorithms to hardware and FPGA prototyping. During the course of 2021-22, I have developed skills in Digital IC design, DSP design, and performance improvements using pipelining and parallelism ( thanks to projects from the university and some voluntary practice at home! ) 
+I have experience in mapping algorithms to hardware and FPGA prototyping. 
+During the course of 2021-22, I have developed skills in Digital IC design, DSP design, and performance improvements using pipelining and parallelism ( thanks to projects from the university and some voluntary practice at home! ) 
+
+
 I am also curious about security in hardware, which has led me to take a course in Cryptography at my university. My plan is to take the learnings from this course and evaluate their performance on hardware( i.e. throughput, latency, Area, power, etc. )
 
-Skills: VHDL / Verilog / System C/ Python / MATLAB
+## Skills: 
+-  Hardware Description Languages: VHDL, Verilog
+- High Level Synthesis: System C
+- Coding: C, Python
+- Sripting: TCL, Linux Bash
+- Modelling: MATLAB
+- Simulation: LTSPICE, Cadence ADE
+- EDA: Altium, EAGLE, Cadence tools
+- FPGA boards: BASYS3, NEXYS4
 
-- 🔭 I’m currently working on Hardware Accelerator for CNN on FPGA 
-- 🌱 I’m currently learning Cryptography , RISC-V 
-- 👯 I’m looking to collaborate on 5G DSP chain 
-- 📫 How to reach me: vnay01@gmail.com 
-- ⚡ Fun fact: I can make cool cocktails 
+## What am I doing now!?
+
+- 🔭 Working on Hardware Accelerator for CNN on FPGA 
+- 🌱 Learning Cryptography and RISC-V 
+- 👯 I’m looking for a master thesis in implementation of 5G DSP chain. 
+- 📫 How to reach me: vnay01@gmail.com or drop me a message in LinkedIn
+
+## ⚡ Fun fact: 
+I can make cool cocktails and talk shit 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vnay01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vnay01/)  
