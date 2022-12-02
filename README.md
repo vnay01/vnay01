@@ -27,7 +27,7 @@ I am also curious about security in hardware, which has led me to take a course 
 
 - 🔭 Working on Hardware Accelerator for CNN on FPGA 
 - 🌱 Learning Cryptography and RISC-V 
-- 👯 I’m looking for a master thesis in implementation of 5G DSP chain. 
+- 👯 ~~I’m looking for a master thesis in implementation of 5G DSP chain. 
 - 📫 How to reach me: vnay01@gmail.com or drop me a message in LinkedIn
 
 ## ⚡ Fun fact: 
