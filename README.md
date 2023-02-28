@@ -1,7 +1,7 @@
 
 ### Hello there 👋 
 ##### ASIC and FPGA development
-![ASIC and FPGA development](https://media-exp1.licdn.com/dms/image/C4D16AQGAXwuPyyeMGQ/profile-displaybackgroundimage-shrink_350_1400/0/1651191608942?e=1672876800&v=beta&t=Qe56jDIxVTYjnwq3b2OmTLLHkJjj8Qf5D8WnaR4l3yk)
+<!-- ![ASIC and FPGA development](https://media-exp1.licdn.com/dms/image/C4D16AQGAXwuPyyeMGQ/profile-displaybackgroundimage-shrink_350_1400/0/1651191608942?e=1672876800&v=beta&t=Qe56jDIxVTYjnwq3b2OmTLLHkJjj8Qf5D8WnaR4l3yk) -->
 
 I am Vinay, from India and currently, Sweden is my new home! 
 
