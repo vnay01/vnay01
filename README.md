@@ -48,5 +48,5 @@ I can mix cool cocktails
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vnay01)  
 
-[//]: # ![Profile views](https://gpvc.arturio.dev/vnay01)  
+<!--  ![Profile views](https://gpvc.arturio.dev/vnay01)  -->
 ![Some Badges](https://www.credly.com/badges/95a1e708-eebc-4d49-8cdb-9f41ec200735/public_url)
