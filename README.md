@@ -31,7 +31,7 @@ I am also curious about security in hardware, which has led me to take a course 
 - 📫 How to reach me: vnay01@gmail.com or drop me a message on LinkedIn
 
 ## ⚡ Fun fact: 
-I can mix cool cocktails and talk shit 
+I can mix cool cocktails
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vnay01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vnay01/)  
@@ -49,3 +49,4 @@ I can mix cool cocktails and talk shit
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vnay01)  
 
 ![Profile views](https://gpvc.arturio.dev/vnay01)  
+![Some Badges](https://www.credly.com/badges/95a1e708-eebc-4d49-8cdb-9f41ec200735/public_url)
