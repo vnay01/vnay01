@@ -17,16 +17,15 @@ I am also curious about security in hardware, which has led me to take a course 
 -  Hardware Description Languages: VHDL, Verilog
 - High Level Synthesis: System C
 - Coding: C, Python
-- Sripting: TCL, Linux Bash
+- Sripting: TCL, Bash
 - Modelling: MATLAB
-- Simulation: LTSPICE, Cadence ADE
-- EDA: Altium, EAGLE, Cadence tools
-- FPGA boards: BASYS3, NEXYS4
+- EDA: Cadence Digital Flow tools
+- FPGA boards: Xilinx's Ultrascale+ Family of SoC boards(ZCU216, ZCU211 , KRIA KV260)
 
 ## What am I doing now!?
 
-- 🔭 Working on Hardware Accelerator for CNN on FPGA 
-- 🌱 Learning Cryptography and RISC-V 
+- 🔭 Working on Hardware Accelerator design and implementation targeted for the signal processing chain of a digital beamforming device.
+- 🌱 Learning algorithms, RISC-V and other cool stuff.
 - 👯 ~~I’m looking for a master thesis in implementation of 5G DSP chain~~
 - 📫 How to reach me: vnay01@gmail.com or drop me a message on LinkedIn
 
